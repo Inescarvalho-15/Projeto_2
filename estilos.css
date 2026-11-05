@@ -1,0 +1,26 @@
+body{background-color:Khaki;}
+   
+h1{color: orangered;
+     font-family:Georgia,serif;}
+h2{color:DarkOrange;
+     font-family:Times New Roman;}
+	 
+div{background-color:PaleGoldenRod;}
+.destaque{background-color:LightGoldenRodYellow;
+	 margin:20px;}
+	 
+	 
+/*1.Desafio Técnico: A regra CSS mais difícil foi saber quais os nomes das cores que eu queria aplicar, superei essa dificuldade consultanto sites que tinham diversos tons e os respetivos nomes para o CSS. 
+  2.Correção de Sintaxe: O erro que me aconteceu foi esquecer-me de fechar uma das tags que fazia a ligação do ficheiro CSS com o ficheiro HTML, tendo que regressar e verificar onde se encontrava o erro.
+  3.Autonomia: O atributo src é utilizado para encontrar o ficheiro guardado para que seja exibido o ficheiro correto na nossa página web, neste caso foi utilizado para encontrar a imagem guardda previamente.*/
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	
